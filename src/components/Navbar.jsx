@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <Flex as="nav" p="100px" alignItems="center">
+    <Flex as="nav" p="10px" mb="40px" alignItems="center">
       <Heading as="h1" size="4xl">
         Shinobi missions
       </Heading>
