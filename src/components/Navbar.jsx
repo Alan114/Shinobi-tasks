@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <Flex as="nav" p="100px" alignItems="center">
       <Heading as="h1" size="4xl">
-        Sninobi missions
+        Shinobi missions
       </Heading>
       <Spacer></Spacer>
 
@@ -14,7 +14,7 @@ export default function Navbar() {
           Kakuzu
         </Box>
         <Text>kakuzu@hiddenvillage.dev</Text>
-        <Button colorScheme="purple">Logout</Button>
+        <Button colorScheme="blue">Logout</Button>
       </HStack>
     </Flex>
     // <Flex bg="gray.200" justify="space-between" wrap="wrap" gap="2">
